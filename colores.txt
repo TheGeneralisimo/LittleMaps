@@ -1,0 +1,6 @@
+Verde oscuro -> #00732D
+Verde claro -> #6AC11E
+Rojo oscuro -> #BD1622
+Rojo claro -> #E62A39
+Oscuro -> #012F41
+Claro -> #DADADA
